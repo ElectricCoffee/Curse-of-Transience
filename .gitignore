@@ -1,0 +1,22 @@
+
+*.aux
+
+*.log
+
+*.toc
+
+*.pdf
+
+*.zip
+
+\.DS_Store
+
+*~
+*.fdb_latexmk
+
+*.fls
+
+*.gz
+
+# Include everything in the graphics folder, regardless of rules stated above.
+!/src/graphics/*
