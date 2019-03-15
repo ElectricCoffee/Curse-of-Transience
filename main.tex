@@ -4,14 +4,22 @@
 \begin{document}
 \begin{titlepage}
     \begin{center}
-        \LARGE{The Curse of Transience}\\
-        \Large{By Niko Lepka}\\
-        \large{\today}
+        \includegraphics[width = \textwidth]{graphics/logo-winged.png}
     \end{center}
 \end{titlepage}
 \thispagestyle{empty}
 \frontmatter
+\begin{center}
+    \Huge{Curse of Transience}\\
+    \Large{By Alex Laterman \& Niko Lepka}\\
+    \large{\today}
+\end{center}
 \chapter*{Preface}
+\textit{The Curse of Transience} is a worldbook for the \textit{Siren} role-playing system\footnote{\texttt{https://github.com/ElectricCoffee/SirenRPG}}, and thus does not act as a self-contained document.
+If you're going to use this setting in a campaign, we recommend you familiarise yourself with that first.
 \tableofcontents
 \mainmatter
+\input{chapters/races/main.tex}
+\input{chapters/guilds/main.tex}
+\input{chapters/creatures/main.tex}
 \end{document}
