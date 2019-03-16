@@ -11,6 +11,10 @@
 * Midgard serves as the land of the living where people go about their ways in the usual way.
 * Helheim is a twisted _underworld_.
   It is a twisted version of Midgard, containing most of its geographic and urban features, but with one notable difference: It is inhabited by the lost souls that died in Midgard.
+* The main game takes place on a fraction of the world map
+  * One nation of industrialised desert dwellers that have taken on colonising the continent.
+  * An empire that is also invading the continent.
+  * Loose coalition of similar cultures make up one "nation" as a defensive strategy against the invading nations.
 ## Hollows/Husks
 People who wander out into the wilderness may encounter malicious spirits, some of which may extract and/or destroy someone's soul "for fun".
 If that were to happen, the person's body would be left to wander the earth aimlessly with no mind or reason of their own.
@@ -23,3 +27,16 @@ People in the Mason's Guild for example could have a natural bonus to dexterity 
 ## Races and Bestiary
 The general set of creatures for the setting would be pulled from German, Slavic, and Nordic folklore while trying to steer as clear of Tolkien as possible.
 The setting would make heavy use of Nisse, Trolls, Witches, and Ice Giants (Jotun) as races rather than the usual slew of Orcs and Elves commonly found in fantasy games.
+## Religions
+* A church dedicated to the eradication of nonhuman spirits who invade husks.
+  * A sect of which also kills humans who have been resurrected
+* A cult who believes ressurection is wrong
+* Engineering religion -- The College of Apxiv -- dedicated to the development of the mind and tech.
+  * They are super secretive about their technological breakthrough, so are unlikely to share it with the outside world
+  * They are situated on a mountain secluded from most of the world.
+    Over time, they eventually hollowed out the mountain and started using that as their archive.
+## Money
+Different cultures will have different currencies.
+* One culture may value steel more than gold, and thus have an entire monetary system based around using weights of steel and copper as their monetary currency.
+* One may use simple bartering to get by
+* One is already on fiat money, using paper banknotes.
