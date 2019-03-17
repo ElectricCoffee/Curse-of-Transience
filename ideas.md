@@ -15,6 +15,10 @@
   * One nation of industrialised desert dwellers that have taken on colonising the continent.
   * An empire that is also invading the continent.
   * Loose coalition of similar cultures make up one "nation" as a defensive strategy against the invading nations.
+### Nánguó
+The land of a people from a distant past, that travelled to the future to avoid a cataclysm.
+They have been around in present day Saoghaal for so long that they have long since forgotten their origin.
+The people are characterised by its heavy use of magic, and it is speculated that the curse came to be in the very cataclysm they tried to escape.
 ## Hollows/Husks
 People who wander out into the wilderness may encounter malicious spirits, some of which may extract and/or destroy someone's soul "for fun".
 If that were to happen, the person's body would be left to wander the earth aimlessly with no mind or reason of their own.
