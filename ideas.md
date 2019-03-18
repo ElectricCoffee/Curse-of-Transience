@@ -32,6 +32,10 @@ If the person's will isn't strong enough to withstand this pain, their mind risk
 The Soul Sickness gets worse with each successive takeover.
 
 People inflicted with Soul Sickness often show signs of paranoia and have nervous ticks.
+### Soul Frenzy
+In its most severe stages, Soul Sickness will deprive a Shade from their former sanity, causing them to become addicted to dying.
+
+Frenzied Shades will often seek out any available body they can find, regardless of species or condition, just so they can die again.
 ## Guilds Instead of Classes
 The game uses different guilds which focus on different aspects of life as the basis of the "class" system.
 People in the Mason's Guild for example could have a natural bonus to dexterity or intelligence, while people in the Royal Guard might favour srength and agility.
