@@ -25,6 +25,13 @@ If that were to happen, the person's body would be left to wander the earth aiml
 These husks are empty vessels capable of carrying a new soul.
 Through the proper channels, a soul that lost its body is able to gain residence in a husk, bonding to it, making it their own.
 It sometimes happens that the soul and body aren't perfect matches, which causes "soul sickness".
+### Soul Sickness
+Shades are capable of possessing any available body they want, but might risk contracting Soul Sickness if not aided by a ritual.
+The ritual's purpose is to relieve the maddening pain caused by entering a foreign body.
+If the person's will isn't strong enough to withstand this pain, their mind risks cracking.
+The Soul Sickness gets worse with each successive takeover.
+
+People inflicted with Soul Sickness often show signs of paranoia and have nervous ticks.
 ## Guilds Instead of Classes
 The game uses different guilds which focus on different aspects of life as the basis of the "class" system.
 People in the Mason's Guild for example could have a natural bonus to dexterity or intelligence, while people in the Royal Guard might favour srength and agility.
