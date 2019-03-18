@@ -15,17 +15,64 @@
   * One nation of industrialised desert dwellers that have taken on colonising the continent.
   * An empire that is also invading the continent.
   * Loose coalition of similar cultures make up one "nation" as a defensive strategy against the invading nations.
-### Nánguó
+### Athonia
+#### How do they organize?
+Democratically elected government.
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
+
+### Carthe
+#### How do they organize?
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
+
+### Halla
+#### How do they organize?
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
+
+### The Venzig Alliance
+The Venzig Alliance is a loose confederation of free trading cities and city states spread out throughout the region of Saoghaal.
+Their main goal is to provide a set of rights and a military to protect those traders that set up shop within its borders.
+#### How do they organize?
+Council made up of representatives from the most powerful trading companies in the country.
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
+
+### The Kingdom of Nánguó
 The land of a people from a distant past, that travelled to the future to avoid a cataclysm.
 They have been around in present day Saoghaal for so long that they have long since forgotten their origin.
 The people are characterised by its heavy use of magic, and it is speculated that the curse came to be in the very cataclysm they tried to escape.
+#### How do they organize?
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
 ## Husks
 People who wander out into the wilderness may encounter malicious spirits, some of which may extract and/or destroy someone's soul "for fun".
 If that were to happen, the person's body would be left to wander the earth aimlessly with no mind or reason of their own.
 These husks are empty vessels capable of carrying a new soul.
 Through the proper channels, a soul that lost its body is able to gain residence in a husk, bonding to it, making it their own.
 It sometimes happens that the soul and body aren't perfect matches, which causes "soul sickness".
-### Soul Sickness
+## Soul Sickness
 Shades are capable of possessing any available body they want, but might risk contracting Soul Sickness if not aided by a ritual.
 The ritual's purpose is to relieve the maddening pain caused by entering a foreign body.
 If the person's will isn't strong enough to withstand this pain, their mind risks cracking.
