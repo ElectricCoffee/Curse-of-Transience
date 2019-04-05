@@ -102,3 +102,17 @@ Different cultures will have different currencies.
 * One culture may value steel more than gold, and thus have an entire monetary system based around using weights of steel and copper as their monetary currency.
 * One may use simple bartering to get by
 * One is already on fiat money, using paper banknotes.
+## Schools of Magic
+### Wizardry / Sorcery
+* Is an "exact science".
+* Uses spellbooks with precise spells that have a precise meaning and definition.
+* Maybe subdivided into sorceries and rituals.
+### Thermomancy
+* Is based on emotion.
+* Uses no spellbook of any kind, but rather has one or two basic spells that can be manipulated based on the individual's needs.
+* Spells grow stronger with player skill.
+* Often carries "catalytic materials" like water and wood in order to augment the thermal spells.
+### Bardery
+* Is based on songs.
+* Songs pull on people's emotions in specific ways and can therefore be used to inspire, mourn, or even heal. Songs therefore act more as passive modifiers than actual spells with effect.
+* Spells require magical instruments imbued with bardic essence in order to be usable as bardic catalysts.
