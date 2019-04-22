@@ -15,6 +15,9 @@
   * One nation of industrialised desert dwellers that have taken on colonising the continent.
   * An empire that is also invading the continent.
   * Loose coalition of similar cultures make up one "nation" as a defensive strategy against the invading nations.
+* The technology level of the world is a mixed bag of early industrial, reneissance, and mediterranean bronze age.
+  * Different nations have different conceptions of what technology is, so some are more advanced in certain areas.
+
 ### Athonia
 #### How do they organize?
 Democratically elected government.
@@ -43,7 +46,7 @@ Democratically elected government.
 #### Feelings towards technology?
 #### What is valuable to them?
 
-### The Venzig Alliance
+### The Venzig Alliance - The Country Without Borders
 The Venzig Alliance is a loose confederation of free trading cities and city states spread out throughout the region of Saoghaal.
 Their main goal is to provide a set of rights and a military to protect those traders that set up shop within its borders.
 #### How do they organize?
@@ -66,12 +69,26 @@ The people are characterised by its heavy use of magic, and it is speculated tha
 #### Feelings towards magic?
 #### Feelings towards technology?
 #### What is valuable to them?
+
+### The Sunken City of <insert name here>
+A city long forgotten at the bottom of a lake in the &lt;name&gt; crater.
+The city rests underneath a HUGE church bell and is populated by fish-like people specialised to life in this environment.
+Their language is ancient and foreign to anyone living in Saoghaal, and people have only heard of this city in tales.
+#### How do they organize?
+#### What do they want? How do they attempt to get it?
+#### Their relationship with other countries/organizations?
+#### Their relationship with the undead?
+#### Feelings towards magic?
+#### Feelings towards technology?
+#### What is valuable to them?
+
 ## Husks
 People who wander out into the wilderness may encounter malicious spirits, some of which may extract and/or destroy someone's soul "for fun".
 If that were to happen, the person's body would be left to wander the earth aimlessly with no mind or reason of their own.
 These husks are empty vessels capable of carrying a new soul.
 Through the proper channels, a soul that lost its body is able to gain residence in a husk, bonding to it, making it their own.
 It sometimes happens that the soul and body aren't perfect matches, which causes "soul sickness".
+
 ## Soul Sickness
 Shades are capable of possessing any available body they want, but might risk contracting Soul Sickness if not aided by a ritual.
 The ritual's purpose is to relieve the maddening pain caused by entering a foreign body.
@@ -79,16 +96,20 @@ If the person's will isn't strong enough to withstand this pain, their mind risk
 The Soul Sickness gets worse with each successive takeover.
 
 People inflicted with Soul Sickness often show signs of paranoia and have nervous ticks.
+
 ### Soul Frenzy
 In its most severe stages, Soul Sickness will deprive a Shade from their former sanity, causing them to become addicted to dying.
 
 Frenzied Shades will often seek out any available body they can find, regardless of species or condition, just so they can die again.
+
 ## Guilds and Organisations
 The game uses different guilds which focus on different aspects of life as the basis of the "class" system.
 People in the Mason's Guild for example could have a natural bonus to dexterity or intelligence, while people in the Royal Guard might favour srength and agility.
+
 ## Races and Bestiary
 The general set of creatures for the setting would be pulled from German, Slavic, and Nordic folklore while trying to steer as clear of Tolkien as possible.
 The setting would make heavy use of Nisse, Trolls, Witches, and Ice Giants (Jotun) as races rather than the usual slew of Orcs and Elves commonly found in fantasy games.
+
 ## Religions
 * A church dedicated to the eradication of nonhuman spirits who invade husks.
   * A sect of which also kills humans who have been resurrected
@@ -97,11 +118,13 @@ The setting would make heavy use of Nisse, Trolls, Witches, and Ice Giants (Jotu
   * They are super secretive about their technological breakthrough, so are unlikely to share it with the outside world
   * They are situated on a mountain secluded from most of the world.
     Over time, they eventually hollowed out the mountain and started using that as their archive.
+
 ## Money
 Different cultures will have different currencies.
 * One culture may value steel more than gold, and thus have an entire monetary system based around using weights of steel and copper as their monetary currency.
 * One may use simple bartering to get by
 * One is already on fiat money, using paper banknotes.
+* 
 ## Schools of Magic
 ### Wizardry / Sorcery
 * Is an "exact science".
